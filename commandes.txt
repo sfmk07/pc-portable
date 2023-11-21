@@ -1,3 +1,5 @@
 git push
 git commit 
 git add
+git checkout 
+git branch
